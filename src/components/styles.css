@@ -1,0 +1,36 @@
+/* styles.css */
+
+.video-display-container {
+  padding: 20px;
+  background-color: #121212; /* Dark background for the kids section */
+  color: #fff; /* White text for better visibility */
+}
+
+.video-display-title {
+  font-size: 2rem;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.video-display-back-button {
+  margin-bottom: 20px;
+}
+
+/* Responsive design for video cards */
+@media (max-width: 600px) {
+  .video-card {
+    width: 100%;
+  }
+}
+
+@media (min-width: 601px) {
+  .video-card {
+    width: calc(33.33% - 20px); /* 3 cards in a row on medium screens */
+  }
+}
+
+@media (min-width: 901px) {
+  .video-card {
+    width: calc(25% - 20px); /* 4 cards in a row on larger screens */
+  }
+}
