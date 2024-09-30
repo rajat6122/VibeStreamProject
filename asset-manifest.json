@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/VibeStreamProject/static/css/main.fd49c701.css",
+    "main.js": "/VibeStreamProject/static/js/main.29786666.js",
+    "reactPlayerYouTube.js": "/VibeStreamProject/static/js/reactPlayerYouTube.4851c8ee.chunk.js",
+    "reactPlayerSoundCloud.js": "/VibeStreamProject/static/js/reactPlayerSoundCloud.a3647b6c.chunk.js",
+    "reactPlayerVimeo.js": "/VibeStreamProject/static/js/reactPlayerVimeo.cb406707.chunk.js",
+    "reactPlayerMux.js": "/VibeStreamProject/static/js/reactPlayerMux.88ad1861.chunk.js",
+    "reactPlayerFacebook.js": "/VibeStreamProject/static/js/reactPlayerFacebook.1b6ee629.chunk.js",
+    "reactPlayerStreamable.js": "/VibeStreamProject/static/js/reactPlayerStreamable.00eca9c6.chunk.js",
+    "reactPlayerWistia.js": "/VibeStreamProject/static/js/reactPlayerWistia.3101c065.chunk.js",
+    "reactPlayerTwitch.js": "/VibeStreamProject/static/js/reactPlayerTwitch.fb112e03.chunk.js",
+    "reactPlayerDailyMotion.js": "/VibeStreamProject/static/js/reactPlayerDailyMotion.f3a12fbe.chunk.js",
+    "reactPlayerMixcloud.js": "/VibeStreamProject/static/js/reactPlayerMixcloud.8d7802f2.chunk.js",
+    "reactPlayerVidyard.js": "/VibeStreamProject/static/js/reactPlayerVidyard.fdb5b878.chunk.js",
+    "reactPlayerKaltura.js": "/VibeStreamProject/static/js/reactPlayerKaltura.7d6ce0b0.chunk.js",
+    "reactPlayerFilePlayer.js": "/VibeStreamProject/static/js/reactPlayerFilePlayer.c94fcfc9.chunk.js",
+    "reactPlayerPreview.js": "/VibeStreamProject/static/js/reactPlayerPreview.3bfa1241.chunk.js",
+    "static/media/Github.png": "/VibeStreamProject/static/media/Github.5eab40a02fe444730a11.png",
+    "static/media/Thankyou.png": "/VibeStreamProject/static/media/Thankyou.890cd770429f160d7733.png",
+    "index.html": "/VibeStreamProject/index.html",
+    "main.fd49c701.css.map": "/VibeStreamProject/static/css/main.fd49c701.css.map",
+    "main.29786666.js.map": "/VibeStreamProject/static/js/main.29786666.js.map",
+    "reactPlayerYouTube.4851c8ee.chunk.js.map": "/VibeStreamProject/static/js/reactPlayerYouTube.4851c8ee.chunk.js.map",
+    "reactPlayerSoundCloud.a3647b6c.chunk.js.map": "/VibeStreamProject/static/js/reactPlayerSoundCloud.a3647b6c.chunk.js.map",
+    "reactPlayerVimeo.cb406707.chunk.js.map": "/VibeStreamProject/static/js/reactPlayerVimeo.cb406707.chunk.js.map",
+    "reactPlayerMux.88ad1861.chunk.js.map": "/VibeStreamProject/static/js/reactPlayerMux.88ad1861.chunk.js.map",
+    "reactPlayerFacebook.1b6ee629.chunk.js.map": "/VibeStreamProject/static/js/reactPlayerFacebook.1b6ee629.chunk.js.map",
+    "reactPlayerStreamable.00eca9c6.chunk.js.map": "/VibeStreamProject/static/js/reactPlayerStreamable.00eca9c6.chunk.js.map",
+    "reactPlayerWistia.3101c065.chunk.js.map": "/VibeStreamProject/static/js/reactPlayerWistia.3101c065.chunk.js.map",
+    "reactPlayerTwitch.fb112e03.chunk.js.map": "/VibeStreamProject/static/js/reactPlayerTwitch.fb112e03.chunk.js.map",
+    "reactPlayerDailyMotion.f3a12fbe.chunk.js.map": "/VibeStreamProject/static/js/reactPlayerDailyMotion.f3a12fbe.chunk.js.map",
+    "reactPlayerMixcloud.8d7802f2.chunk.js.map": "/VibeStreamProject/static/js/reactPlayerMixcloud.8d7802f2.chunk.js.map",
+    "reactPlayerVidyard.fdb5b878.chunk.js.map": "/VibeStreamProject/static/js/reactPlayerVidyard.fdb5b878.chunk.js.map",
+    "reactPlayerKaltura.7d6ce0b0.chunk.js.map": "/VibeStreamProject/static/js/reactPlayerKaltura.7d6ce0b0.chunk.js.map",
+    "reactPlayerFilePlayer.c94fcfc9.chunk.js.map": "/VibeStreamProject/static/js/reactPlayerFilePlayer.c94fcfc9.chunk.js.map",
+    "reactPlayerPreview.3bfa1241.chunk.js.map": "/VibeStreamProject/static/js/reactPlayerPreview.3bfa1241.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fd49c701.css",
+    "static/js/main.29786666.js"
+  ]
+}
