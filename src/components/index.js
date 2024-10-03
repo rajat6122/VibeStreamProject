@@ -11,4 +11,3 @@ export { default as Sidebar } from './Sidebar';
 export { default as About } from './About'; // Ensure this line is present
 export { default as UserMenu } from './UserMenu';
 export { default as Feed } from './Feed'; // Add this line if it exists
-export {default as VideoDisplay} from './VideoDisplay';

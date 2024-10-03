@@ -2,11 +2,11 @@ import React, { useState, createContext } from 'react';
 import { Routes, Route } from "react-router-dom"; 
 import { Box, CssBaseline, ThemeProvider, createTheme } from '@mui/material';
 
-import { ChannelDetail, VideoDetail, SearchFeed, Navbar, Feed, About } from './components';
+import { ChannelDetail, VideoDetail, SearchFeed, Navbar, Feed, About} from './components';
 
 export const ThemeContext = createContext();
 
-const App = () => {
+const MainApp = () => {
   const [darkMode, setDarkMode] = useState(true);
 
   const darkTheme = createTheme({
@@ -48,6 +48,9 @@ const App = () => {
             <Route path='/channel/:id' element={<ChannelDetail />} />
             <Route path='/search/:searchTerm' element={<SearchFeed />} />
             <Route path='/about' element={<About />} />
+        
+            
+         
           </Routes>
         </Box>
       </ThemeProvider>
@@ -55,4 +58,4 @@ const App = () => {
   );
 };
 
-export default App;
+export default MainApp;

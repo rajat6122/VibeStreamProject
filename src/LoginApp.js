@@ -22,7 +22,7 @@ function LoginApp({ setIsLoggedIn }) {
           <Route element={<Register />} path="/register"/>
           <Route element={<HomePage />} path="/HomePage"/>
           <Route element={<Profile />} path="/profile" />
-          <Route element={<MainApp />} path="/" />
+          <Route element={<MainApp />} path="*" />
           <Route element={<ContactForm /> }path="/contactform"/>
         </Routes>
       </div>
