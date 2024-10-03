@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/VibeStreamProject/static/css/main.fd49c701.css",
-    "main.js": "/VibeStreamProject/static/js/main.29786666.js",
+    "main.css": "/VibeStreamProject/static/css/main.ebcda3b0.css",
+    "main.js": "/VibeStreamProject/static/js/main.211fcc4c.js",
     "reactPlayerYouTube.js": "/VibeStreamProject/static/js/reactPlayerYouTube.4851c8ee.chunk.js",
     "reactPlayerSoundCloud.js": "/VibeStreamProject/static/js/reactPlayerSoundCloud.a3647b6c.chunk.js",
     "reactPlayerVimeo.js": "/VibeStreamProject/static/js/reactPlayerVimeo.cb406707.chunk.js",
@@ -19,8 +19,8 @@
     "static/media/Github.png": "/VibeStreamProject/static/media/Github.5eab40a02fe444730a11.png",
     "static/media/Thankyou.png": "/VibeStreamProject/static/media/Thankyou.890cd770429f160d7733.png",
     "index.html": "/VibeStreamProject/index.html",
-    "main.fd49c701.css.map": "/VibeStreamProject/static/css/main.fd49c701.css.map",
-    "main.29786666.js.map": "/VibeStreamProject/static/js/main.29786666.js.map",
+    "main.ebcda3b0.css.map": "/VibeStreamProject/static/css/main.ebcda3b0.css.map",
+    "main.211fcc4c.js.map": "/VibeStreamProject/static/js/main.211fcc4c.js.map",
     "reactPlayerYouTube.4851c8ee.chunk.js.map": "/VibeStreamProject/static/js/reactPlayerYouTube.4851c8ee.chunk.js.map",
     "reactPlayerSoundCloud.a3647b6c.chunk.js.map": "/VibeStreamProject/static/js/reactPlayerSoundCloud.a3647b6c.chunk.js.map",
     "reactPlayerVimeo.cb406707.chunk.js.map": "/VibeStreamProject/static/js/reactPlayerVimeo.cb406707.chunk.js.map",
@@ -37,7 +37,7 @@
     "reactPlayerPreview.3bfa1241.chunk.js.map": "/VibeStreamProject/static/js/reactPlayerPreview.3bfa1241.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fd49c701.css",
-    "static/js/main.29786666.js"
+    "static/css/main.ebcda3b0.css",
+    "static/js/main.211fcc4c.js"
   ]
 }
